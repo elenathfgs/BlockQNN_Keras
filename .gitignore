@@ -1,0 +1,8 @@
+# ignore eniroment
+venv
+.idea
+__pycache__
+
+# ignore unrelevant file
+joblist.txt
+sample.txt
