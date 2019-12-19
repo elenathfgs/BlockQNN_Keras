@@ -1,10 +1,15 @@
+#    (\~---.
+#    /   (\-`-/)
+#   (      ' ' )
+#    \ (  \_Y_/\
+#     ""\ \___//
+#        `w   "    
+# -implement by Elenath Feng
+
 import time
-
 from keras import optimizers
-
 from BlockQNN_agents import MasterAgent, ControllerAgent, ComputeAgent
 import numpy as np
-
 from BlockQNN_tools import get_refined_accuracy, adjust_epsilon_schedule
 
 

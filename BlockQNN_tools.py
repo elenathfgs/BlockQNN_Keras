@@ -1,3 +1,11 @@
+#    (\~---.
+#    /   (\-`-/)
+#   (      ' ' )
+#    \ (  \_Y_/\
+#     ""\ \___//
+#        `w   "    
+# -implement by Elenath Feng
+
 import numpy
 from keras.layers import Input, Activation, Conv2D, BatchNormalization, \
     MaxPooling2D, AveragePooling2D, Concatenate, Add, GlobalAveragePooling2D, Dense

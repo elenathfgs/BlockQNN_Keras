@@ -1,3 +1,11 @@
+#    (\~---.
+#    /   (\-`-/)
+#   (      ' ' )
+#    \ (  \_Y_/\
+#     ""\ \___//
+#        `w   "    
+# -implement by Elenath Feng
+
 import numpy as np
 from BlockQNN_tools import dict_argmax, QNN_layers, random_crop_image
 from keras.layers import Conv2D, MaxPooling2D
